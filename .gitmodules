@@ -1,0 +1,3 @@
+[submodule "app/src/extended-files"]
+	path = app/src/extended-files
+	url = https://github.com/srvprasadrao/extended-files.git
